@@ -5,7 +5,7 @@
 
 👨🏾‍💻 I enjoy contributing to **Imagination to life Projects** and am really enthusiastic about learning new technology.
 
-🖥  Software engineer with over 4+ years of experience in building different softwares for startups and solutions for government based sectors using **PERN and MERN Stack**.
+🖥  Software engineer with over 5+ years of experience in building different softwares for startups and solutions for government based sectors using **PERN and MERN Stack**.
 
 ✈️ I am passionate about **building reliable/technical solutions** which make change on current situations and shape the future using **technology**. 
 
