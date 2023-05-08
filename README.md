@@ -73,11 +73,7 @@
 ![digitalocean](https://img.shields.io/badge/DigitaLOCEAN-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![aws](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![gcp](https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-## 🖥️ Workspace Setup
 
-![intel](https://img.shields.io/badge/Macbook_Pro-Mid_2012-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![apple](https://img.shields.io/badge/Mac_OS_10.15.17-000000?style=for-the-badge&logo=apple&logoColor=white)
-![webstorm](https://img.shields.io/badge/WebStrorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)![atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=white)
 ## 📈 Stats
 
 <div align="center">
